@@ -1,0 +1,29 @@
+_repo: The-unlit-lamp-b-A-study-in-inter-actions_70237
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holding, Elisabeth Sanxay
+    alias: Holding, Elizabeth Sanxay
+    birthdate: 1889
+    deathdate: 1955
+    gutenberg_agent_id: '54174'
+    url: http://www.gutenberg.org/2009/agents/54174
+    wikipedia: https://en.wikipedia.org/wiki/Elisabeth_Sanxay_Holding
+description: ''
+gutenberg_issued: '2023-03-08'
+identifiers:
+  gutenberg: '70237'
+language: en
+pgterms:marc905: 20210930040429holding
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aUnited States :$bE. P. Dutton, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The unlit lamp : $b A study in inter-actions'
+url: http://www.gutenberg.org/ebooks/70237
